@@ -69,7 +69,8 @@ hr{
 }
 
 .cloud2{
-  position: absolute;
+  position: relative;
+  margin: 0 70% 0 30%;
 }
 
 .mountain{
